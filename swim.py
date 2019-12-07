@@ -4,8 +4,8 @@
 Computer Graphics Assignment2 
    -use at least 3-level of hierarchy
 
-Student ID : 2014004293
-Name : 구민우
+Student ID : 
+Name : 
 Date : 20180410
 
 Hierarchy 3-level : 몸통, 허벅지, 정강이 
